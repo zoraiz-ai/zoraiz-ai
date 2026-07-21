@@ -39,3 +39,7 @@ Fetches live weather information using an API and delivers formatted updates aut
 
 ### 👤 Random User API Workflow
 Retrieves user information from an API and processes it automatically inside n8n workflows.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoraiz-ai&show_icons=true&theme=tokyonight)
