@@ -11,3 +11,14 @@ Welcome to my GitHub profile!
 - 🔹 Experienced in API integrations, Gmail automation, and business process automation.
 - 🔹 Built 25+ practical automation projects focused on solving real business problems.
 - 🔹 Always learning and improving automation skills to create smarter solutions.
+
+## 🛠 Tech Stack
+
+- ⚡ n8n Workflow Automation
+- 🤖 OpenAI API
+- 🌐 REST APIs
+- 📧 Gmail Automation
+- 📊 Google Sheets
+- 🔗 HTTP Requests
+- 🧠 AI Automation
+- ⚙️ Business Process Automation
