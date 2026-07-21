@@ -22,3 +22,20 @@ Welcome to my GitHub profile!
 - 🔗 HTTP Requests
 - 🧠 AI Automation
 - ⚙️ Business Process Automation
+
+## 🚀 Featured Projects
+
+### 🍽️ Restaurant Lead Automation
+Automates lead collection from forms, stores data in Google Sheets, and instantly sends notification emails.
+
+### 🏋️ Multi-Business Lead Management
+Routes leads for Restaurants, Gyms, and Clinics automatically using intelligent workflow logic.
+
+### 🤖 AI Business Proposal Generator
+Uses OpenAI to generate professional business proposals automatically and sends them via Gmail.
+
+### 🌦️ Weather API Automation
+Fetches live weather information using an API and delivers formatted updates automatically.
+
+### 👤 Random User API Workflow
+Retrieves user information from an API and processes it automatically inside n8n workflows.
